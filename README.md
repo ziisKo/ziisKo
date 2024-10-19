@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋, I'm ziisKo
 
-<!--
-**ziisKo/ziisKo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Developer and Professional with Military Security Experience
+I’m currently expanding my knowledge in programming and technology at 42Madrid. With a solid background in Systems Administration and Networking (ASIR) and hands-on experience as a Military Police Officer, I’m passionate about solving complex problems and finding efficient solutions in both the physical and digital worlds.
 
-Here are some ideas to get you started:
+💻 Technical Skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Systems Administration
+- Networking
+- Cybersecurity (in progress)
+- Software Development (in progress)
+- I’m always eager to improve my skills and explore exciting new projects.
+
+🎯 Looking for challenges
+If you're interested in collaborating on projects or have any suggestions, feel free to reach out!
